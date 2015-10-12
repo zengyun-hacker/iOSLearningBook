@@ -19,7 +19,7 @@
 #### 应用安全
 
 ### 设计模式
-[《Cocoa设计模式》](http://book.douban.com/subject/5323430/)（推荐原版）
+* [《Cocoa设计模式》](http://book.douban.com/subject/5323430/)（推荐原版）
 
 ### 持久性存储
 
